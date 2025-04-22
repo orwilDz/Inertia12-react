@@ -5,6 +5,8 @@
         "moduleResolution": "bundler",
         "jsx": "react-jsx",
         "strict": true,
+        "jsxImportSource": "react",
+        "skipLibCheck": true,
         "isolatedModules": true,
         "target": "ESNext",
         "esModuleInterop": true,
